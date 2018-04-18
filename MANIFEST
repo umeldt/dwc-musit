@@ -2,5 +2,5 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/DwC-Plugin-MUSIT.t
+t/dwc-musit.t
 lib/DwC/Plugin/MUSIT.pm
