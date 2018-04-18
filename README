@@ -1,0 +1,30 @@
+DwC::Plugin::MUSIT version 0.01
+===============================
+
+DwC plugin for cleaning MUSIT data.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  DwC 0.01+
+  Local::gbifno 0.01+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2018 by umeldt
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.24.3 or,
+at your option, any later version of Perl 5 you may have available.
+
+

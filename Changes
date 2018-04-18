@@ -1,0 +1,6 @@
+Revision history for Perl extension DwC::Plugin::MUSIT.
+
+0.01  Fri Apr 13 13:20:30 2018
+	- original version; created by h2xs 1.23 with options
+		-AX DwC::Plugin::MUSIT
+
